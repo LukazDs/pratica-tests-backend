@@ -1,6 +1,6 @@
 # Prática: Testando applicações
 
----> Desafio
+## _Desafio_
 
 
 Você está responsável por ajudar o estagiário (#ajudem_os_estagiarios) então você pediu três funções que irão te ajudar no projeto, as funções são:
